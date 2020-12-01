@@ -9,7 +9,7 @@ from stat import ST_MODE
 This script creates a list of files out of a given path and turn it into a list. This is is iterated and if an object is a file then
 permissions are set and return a print statement new new permissions assigned
 """
-
+# needs to implete os.wwalk in order to get access recursively to all files in a tree
 def make_list(path):
     #create list of file out of directory using its path
     my_list = []
