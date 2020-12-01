@@ -20,7 +20,8 @@
 
 ## Accesing help menu
 `$ ./change_files_permissions.py -h`
-`
+
+```
 usage: change_files_permissions.py [-h] path perm_octal
 
 Change files & directory permissions
@@ -31,7 +32,7 @@ positional arguments:
 
 optional arguments:
   -h, --help  show this help message and exit
-`
+```
 
 ## Prerequisites
 * Clone this repo
