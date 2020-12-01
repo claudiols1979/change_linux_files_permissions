@@ -2,7 +2,7 @@
 
 ### The purpose of this script is to facilate the process of changing files permissions
 > Sometimes we just create a folder to fill it up with a bunch of scripts that we then want 
-> to execute
+> to execute.
 > Changing file permissions to those scripts can be tedius and mostly when the file system is shared with other directories
 
 ## This script iterate over a created list and make sure only files are changed. 
