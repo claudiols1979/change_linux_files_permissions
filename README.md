@@ -18,6 +18,9 @@
 * path (directory path containing files)
 * octal permission styles to be changed
 
+## Accesing help menu
+`$ ./change_files_permissions.py -h`
+
 ## Prerequisites
 * Clone this repo
 * Store it somewhere in your Linux system like `/opt` or `/usr/local` or `/usr/bin` if you intend to run this script from everywhere
