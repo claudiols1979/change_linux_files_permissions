@@ -25,8 +25,8 @@
 
 # Usage examples
 `change_files_permissions /path/to/directory/ 755`, 
-`change_files_permissions /path/to/directory/ 700`,
-`change_files_permissions /path/to/directory/ 750` 
+`change_files_permissions /path/to/directory/ 700`
+ 
 
 *Note directory path must end with forward slash '/'*
 
