@@ -13,6 +13,11 @@
 * Change permissions on those files only
 * Shows a string representation of those new file's permissions
 
+## Command line arguments
+#### This script accept and needs 2 command line arguments:
+* path (directory path containing files)
+* octal permission styles to be changed
+
 ## Prerequisites
 * Clone this repo
 * Store it somewhere in your Linux system like `/opt` or `/usr/local` or `/usr/bin` if you intend to run this script from everywhere
