@@ -5,7 +5,7 @@
 > to execute
 > Changing file permissions to those scripts can be tedius and mostly when the file system is shared with other directories
 
-## This script iterage over a created list and make sure only files are changed. 
+## This script iterate over a created list and make sure only files are changed. 
 ## Later I will add `Choosing file type functionality` 
 
 ## What this script does?
