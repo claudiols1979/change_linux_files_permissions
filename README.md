@@ -37,7 +37,7 @@ optional arguments:
 ## Prerequisites
 * Clone this repo
 * Store it somewhere in your Linux system like `/opt` or `/usr/bin` if you intend to run this script from everywhere
-* change script permissions to 755 `$ sudo chmod 755 change_files_permissions`
+* change script permissions to 755 `$ sudo chmod 755 change_files_permissions.py`
 
 # Usage examples
 `$ ./change_files_permissions.py /path/to/directory/ 755`
