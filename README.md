@@ -20,6 +20,18 @@
 
 ## Accesing help menu
 `$ ./change_files_permissions.py -h`
+`
+usage: change_files_permissions.py [-h] path perm_octal
+
+Change files & directory permissions
+
+positional arguments:
+  path        Path where files are found. Make sure to type full directory path as /home/user/folder/ note last slash '/'
+  perm_octal  Octal permissions
+
+optional arguments:
+  -h, --help  show this help message and exit
+`
 
 ## Prerequisites
 * Clone this repo
