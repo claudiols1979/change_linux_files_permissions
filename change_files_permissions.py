@@ -14,7 +14,7 @@ def make_list(path):
     #create list of file out of directory using its path
     my_list = []
     for f in listdir(path):        
-        full_path = path+f        
+        full_path = path+'/'+f        
         base = os.path.split(full_path)[0]
         if isfile(join(base, f)):                        
             if f not in my_list:                
